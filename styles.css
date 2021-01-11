@@ -201,7 +201,17 @@ html {
     margin: 0px -40px;
 }
 
-/* .instructi */
+.instructions{
+    position: absolute;
+   display: flex;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    top: 100px;
+}
+.instructionOL{
+    position: absolute;
+    top: 130px;
+    left: -5px;
+}
 
 
 
