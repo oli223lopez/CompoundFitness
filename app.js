@@ -2,6 +2,7 @@ const modal = document.getElementById('modal-bg')
 const closeButton = document.getElementById('closeButton')
 
 
+
 const chest = document.getElementById('chest_text')
 chest.addEventListener('click', () => openModal('chest'))
 
@@ -29,9 +30,7 @@ function clickOutside(e){
             ul.removeChild(div)
         }
     }
-    
-    
-    
+
     
 }
 
